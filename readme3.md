@@ -1,2 +1,2 @@
---"This file is being pushed to Github manually via add files in github, chooose/drag files."
--"This was created in gitBash")
+- "This file is being pushed to Github manually via add files in github, chooose/drag files."
+- "This was created in gitBash"
